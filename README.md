@@ -19,4 +19,4 @@ You can improve it to your liking. You can also send images that are in a folder
 Remember that the WhatsApp API requires the country code, for example, for Argentina it is 54.
 You can change the message, if you need it to be in separate messages you can put <code>\n</code> in the message line.
 
-![wp-logo](wp-logo.png)
+![wp-logo-bot](./wp-logo-bot.jpg)
