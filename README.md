@@ -1,7 +1,7 @@
 # WHATSAPP BOT WITH PYAUTOGUI AND SPREADSHEET
 You can send messages, with a spreadsheet. 
 
-# How install
+# How to install
 
 1) Clone or download repositorie
 2) Open with visual studio code the folder
